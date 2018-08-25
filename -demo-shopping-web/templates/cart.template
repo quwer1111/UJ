@@ -1,0 +1,5 @@
+<cart>
+    <p>No products in cart yet.</p>
+</cart>
+<button id="sendOrderButton">Send Order
+</button>

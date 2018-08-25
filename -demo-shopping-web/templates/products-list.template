@@ -1,0 +1,10 @@
+<productslist>
+    <table id="productList" class="display" cellspacing="0" width="100%">
+        <thead>
+        <tr>
+            <th>Name</th>
+            <th>Action</th>
+        </tr>
+        </thead>
+    </table>
+</productslist>

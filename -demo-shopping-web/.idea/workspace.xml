@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07da634b-ca48-4e7a-aee0-778a9dfa5e5a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../di-message-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../direstservice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Untitled Folder/dismit-rest-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Untitled Folder/sampleProject/info4c-compliance-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Untitled Folder/sampleProject/jw-customer-dispatcher-svc-feature-KI1API-50-create-routing-slip-dynamic-routing@ec61a97eaf5" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../telefon/RegexFinal-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/09.08.2018/MessageService" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/569/aml-portfolio-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/8.08.2018/source-data-producer-se-rdb" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/CrudCustomerProduction" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/ODP_project/boss-schema-artifactory" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/ODP_project/boss-schema-generator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/ODP_project/boss-schema-validator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/Untitled Folder 2/aml-portfolio-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/aml-p21.06/aml-portfolio-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/aml-port-api/aml-portfolio-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/aml-portfolio-operations-orc" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/aml-portfolio-orc/aml-portfolio-routes-orc" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/aml-portfolio-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/batch/aml-portfolio-batch" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/bi-rest-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/bi-rest-service/2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/boss-onto-api_24.07/boss-ontology-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/dismit-rest-service/bi-rest-service/bi-rest-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/dismit-rest-service/dismit-rest-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/do deploju/bi-rest-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/do deploju/dismit-rest-service-master@7765b0818a6" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/example of spirnProperties/odp-internal-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/mongoDB_source/springboot-mvc-data-mongodb" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/performance_tester" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/portfolio-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/service/aml-portfolio-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../temp/temp/source-data-producer-se-rdb" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/Intellij/!repo/DIspatcher_TEST/jw-customer-dispatcher-svc" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/Intellij/!repo/DIspatcher_TEST/jw-customer-dispatcher-svc-master@dc4c9824a61" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/Intellij/!repo/DIspatcher_TEST/jw-customer-dispatcher-svc/2" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/Intellij/!repo/aml-prtflcustomer-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/Intellij/!repo/jw-customer-dispatcher-svc" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/Intellij/!repo/jw-customer-dispatcher-svc-KI1API-40_DynamicRouter@d8aa3832c15" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/Intellij/szkolenie 13.12/aml-portfolio-batch" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/Intellij/szkolenie 13.12/aml-portfolio-integrationtest" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/Intellij/szkolenie 13.12/aml-portfolio-integrationtest_15.01" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/Intellij/szkolenie 13.12/aml-portfolio-integrationtest_15.01/t" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/JAVA_NA_SERWERZE/Backend/survivalHello" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Dispatcher/jw-customer-dispatcher-svc" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/IntegrationTest/aml-portfolio-integrationtest-master@301a156be06" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/544/aml-portfilio-batch554/aml-portfolio-batch" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/544/aml-portfolio-batch" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/561/aml-portfolio-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/569/aml-portfolio-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/569_NOWE/aml-portfolio-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/662/aml-portfolio-operations-orc" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/AML_API_GETALERTID/aml-Orch/aml-portfolio-operations-orc" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/AML_API_GETALERTID/aml-Orch/aml-portfolio-orc" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/AML_API_GETALERTID/aml-orch-FINAL/aml-portfolio-operations-orc" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/AML_API_GETALERTID/aml-portfolio-MasterSUPERKILLER/aml-portfolio-operations-orc" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/AML_API_GETALERTID/aml-portfolio-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/AML_API_GETALERTID/aml-portfolio-api2/aml-port-api2/aml-portfolio-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/AML_API_GETALERTID/aml-portfolio-api2/aml-port-api2/aml-portfolio-api/2" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/AML_API_GETALERTID/aml-portfolio-api2/aml-portfolio-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/AML_API_GETALERTID/aml-portfolio-api2/aml-portfolio-api/1" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/AML_API_GETALERTID/aml-portfolio-apiFinal/aml-portfolio-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/AML_API_GETALERTID/aml-servic3/aml-portfolio-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/AML_API_GETALERTID/aml-service/aml-portfolio-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/AML_API_GETALERTID/aml-service2/aml-portfolio-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/AML_API_GETALERTID/aml-service2/aml-portfolio-service/2" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/AML_API_GETALERTID/oldProject/aml-service2/aml-portfolio-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/Aml-8.03/aml-portfolio-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/BRGSCOMP-488/aml-portfolio-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/BRGSCOMP-488NEW/aml-portfolio-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/Final70/aml-portfolio-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/Info4_project/aml-info4c-compliance-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/MyBestParserEver" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/MyParser16.04/RegexFinal" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/MyParser16.04/RegexFinal/1" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/ParseTextSpring/gs-spring-boot/initial" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/aml-portf-s/aml-portfolio-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/aml-portfolio-12.03/aml-portfolio-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/aml-portfolio-TEST70" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/aml-portfolio-api/aml-portfolio-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/aml-portfolio-api2/aml-portfolio-service-master@de088a0e061" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/aml-portfolio-api2/master-aml-portfolio/aml-portfolio-service-master@de088a0e061" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/aml-portfolio-service-bugfix-bugfix-70-new@de088a0e061" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/aml-portfolio-service/aml-portfolio-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/aml-portfolio-service_436Endpoints" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/aml-service/aml-portfolio-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/batch_investigation/aml-portfolio-batch" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/jNotife." value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/savedProject/aml-portfolio-service/aml-portfolio-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/service_czerwiec/aml-portfolio-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/MyWorkspace/untitled/TestApp/ProductDatabase" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Onthology/17.07.2018/dismit-NowyBranch/dismit-rest-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Onthology/17.07.2018/dismit-rest-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Onthology/18.07.2018/dismit-rest-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Onthology/26.06/boss-ontology-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Onthology/28.06/boss-ontology-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Onthology/6.07.2018/dismit-message-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Onthology/Bisnode Ontology Services Suite/boss-schema-validator" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Onthology/DP-347-boss-add-reverse-tag/boss-ontology-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Onthology/RestApi/dismit-message-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Onthology/RestApi/dismit-pr-service/dismit-producer-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Onthology/backup/26.06/boss-ontology-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Onthology/backup/boss_api_add_reverse-tag/boss-ontology-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Onthology/boss-ontology-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Onthology/boss-ontology-api/1" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Onthology/boss-ontology-test/18.07.2018/boss-ontology-test" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Onthology/boss-ontology-test/boss-ontology-test" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Onthology/boss-ontology-test/boss_ontolgoy_test2/boss-ontology-test" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Onthology/boss_api_add_reverse-tag/boss-ontology-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Onthology/boss_api_reverseTag22.06/boss-ontology-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Onthology/nowe/dismit-message-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Onthology/nowe/dismit-rest-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Onthology/nowe347/boss-ontology-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Onthology/restApiBranch/dismit-message-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Onthology/reverseBoss_25.06/boss-ontology-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Smietnik/Aml-8.03/aml-portfolio-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Smietnik/Final70/aml-portfolio-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Smietnik/aml-portfolio-12.03/aml-portfolio-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Smietnik/aml-portfolio-TEST70" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Smietnik/aml-portfolio-api/aml-portfolio-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Smietnik/aml-portfolio-service/aml-portfolio-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Sprint 4/dismit-rest-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/Sprint 4/source_data_producer-se-rdb/source-data-producer-se-rdb" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/SprintCarslberg/1208/source-data-producer-se-rdb" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/SprintCarslberg/5.08.2018/master___/source-data-producer-se-rdb" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/SprintCarslberg/5.08.2018/source-data-producer-se-rdb" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/SprintCarslberg/example/source-data-producer-se-rdb" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/SprintCarslberg/git gateway/source-data-producer-se-rdb" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/SprintCarslberg/source-data-producer-se-rdb" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/SprintCarslberg/sourceGataway/source-data-producer-se-rdb" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/SprintCarslberg/v1_addTemplate/source-data-producer-se-rdb" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/aml-p-batch/aml-portfolio-batch" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/aml-prft-/aml-portfolio-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/szkolne/javaServer" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/temp/boss-ontology-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/temp/boss/boss-ontology-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/WorkProject/test_prtf_service/aml-portfolio-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/bi-message-service/dismit-rest-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/dismit-rest-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/projekt_REST_DATABASE/bi-message-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/sluzbowe/sampleProject/Czysty/Dismit-Message-Service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/sluzbowe/sampleProject/Source-project/dismit-message-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/sluzbowe/sampleProject/Source-project/dismit-producer-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/RegexFinal-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/RegexFinal-master (2)" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
+    <option name="y" value="24" />
+    <option name="width" value="960" />
+    <option name="height" value="997" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07da634b-ca48-4e7a-aee0-778a9dfa5e5a" name="Default" comment="" />
+      <created>1535151050216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535151050216</updated>
+      <workItem from="1535151051533" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="599000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="960" y="24" width="960" height="997" extended-state="0" />
+    <layout>
+      <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24945295" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

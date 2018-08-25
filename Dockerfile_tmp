@@ -1,0 +1,3 @@
+FROM nginx:1.10.3
+COPY ./ /usr/share/nginx/html/application-web
+#CMD ["nginx", "-c", "/usr/share/nginx/html/server.conf", "-g", "daemon off;"]

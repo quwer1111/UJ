@@ -1,0 +1,1 @@
+var api_endpoint = "http://localhost:8081/application-orchestration/v1";

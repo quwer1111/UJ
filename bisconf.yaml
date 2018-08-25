@@ -1,0 +1,5 @@
+service:
+    name: application-web
+    fullName:
+    groupName: application_shopping
+    description: The most efficient service ever.
